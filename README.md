@@ -1,16 +1,33 @@
 ### Olá, Me chamo [Carlos Moraes](https://www.linkedin.com/in/carlos-moreira-de-moraes/)👋
 
-<div align="left">
-<a href="https://github.com/carlos-moraes2">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=carlos-moraes2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img heigth= "300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-moraes2&layout=compact&langs_count=7&theme=cobalt"/>
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/Carlos-Moraes2?tab=repositories"
+    >Acesse meus repositórios</a>
+  </h2>
 </div>
+
+## :chart_with_upwards_trend: Minhas estatísticas
+
+
+<div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-moraes2&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-moraes2&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
+## :bookmark_tabs: Skill's
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
 <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
 
  ##
  
