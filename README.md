@@ -1,4 +1,4 @@
-### Olá, Me chamo [Carlos Moraes](www.linkedin.com/in/carlos-moreira-de-moraes/)👋
+### Olá, Me chamo [Carlos Moraes](https://www.linkedin.com/in/carlos-moreira-de-moraes/)👋
 
 <div align="left">
 <a href="https://github.com/carlos-moraes2">
