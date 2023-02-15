@@ -20,13 +20,15 @@
 
 ## :bookmark_tabs: Hard Skill's
 
+
+
+![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 <div style="display: inline_block"><br>
- <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- 
- <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-<img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
 
 
  ##
