@@ -11,12 +11,9 @@
 </div>
 
 ## :chart_with_upwards_trend: Minhas estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Moraes2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-<div align='left'>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlos-moraes2&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-moraes2&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Carlos-Moraes2&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## :bookmark_tabs: Hard Skill's
 
